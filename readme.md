@@ -1,2 +1,2 @@
 # Preview page #
-[title](https://xrazgrizx.github.io/shoptemplate/)
+[Minim](https://xrazgrizx.github.io/shoptemplate/)
